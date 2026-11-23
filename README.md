@@ -21,7 +21,7 @@ Claude, Cursor ve diğer MCP uyumlu yapay zeka araçlarına **Türkiye'ye özgü
 Gereksinim: Node.js 18+
 
 ```bash
-git clone https://github.com/KULLANICI/turkiye-mcp.git
+git clone https://github.com/diyargundogdu/turkiye-mcp.git
 cd turkiye-mcp
 npm install && npm run build
 ```
